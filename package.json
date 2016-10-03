@@ -1,0 +1,31 @@
+{
+  "name": "cuboid",
+  "version": "0.0.0",
+  "description": "High speed immutable data for modern JavaScript",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyeonupark/cuboid.git"
+  },
+  "keywords": [
+    "cuboid",
+    "iterate",
+    "sequence",
+    "stateless",
+    "collection",
+    "datastructure",
+    "data",
+    "lazy",
+    "persistent",
+    "immutable"
+  ],
+  "author": "HyeonuPark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyeonupark/cuboid/issues"
+  },
+  "homepage": "https://github.com/hyeonupark/cuboid#readme"
+}
